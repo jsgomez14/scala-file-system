@@ -1,7 +1,6 @@
 package com.rtjvm.scala.oop.filesystem
 
 import java.util.Scanner
-
 import com.rtjvm.scala.oop.commands.Command
 import com.rtjvm.scala.oop.files.Directory
 
